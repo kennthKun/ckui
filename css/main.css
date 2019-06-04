@@ -1,0 +1,27 @@
+.ck_flex{display: flex !important;display:-webkit-box !important;display: -moz-box !important;display: -ms-flexbox !important;display: -webkit-flex !important;}.ck_flex-inline{display: inline-flex !important;}.ck_full{height: 100%;}
+.ck_flex1{box-flex:1;-webkit-box-flex:1;-moz-box-flex:1;flex:1;-webkit-flex:1;}.ck_flex2{box-flex:2;-webkit-box-flex:2;-moz-box-flex:2;flex:2;-webkit-flex:2;}.ck_flex3{box-flex:3;-webkit-box-flex:3;-moz-box-flex:3;flex:3;-webkit-flex:3;}.ck_flex4{box-flex:4;-webkit-box-flex:4;-moz-box-flex:4;flex:4;-webkit-flex:4;}.ck_flex5{box-flex:5;-webkit-box-flex:5;-moz-box-flex:5;flex:5;-webkit-flex:5;}
+
+/*清除浮动代码*/
+.ck_clearfloat:after{display:block;clear:both;content:"";visibility:hidden;height:0}
+.ck_clearfloat{zoom:1}
+
+.ck_wrap{width: 100%;max-width: 1200px;margin: 0 auto;display: block !important;position: relative;}
+
+header.ck_header{
+	width: 100%;
+	background: #fff;
+	height: 100px;
+	line-height: 100px;
+	border-bottom: 1px solid #f3f3f3;
+	/* position: absolute;
+	top: 0;
+	left: 0; */
+	float: left;
+}
+
+.ck_content{display: block;width: 100%;}
+.ck_menu{overflow: scroll;}
+.ck_left{padding: 20px 0;box-sizing: border-box;}
+.ck_center{
+	
+}

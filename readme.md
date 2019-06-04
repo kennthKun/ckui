@@ -1,0 +1,42 @@
+//开发规范
+一、
+	flex:ck_flex
+	主体头部：ck_header
+	内容：ck_content
+	尾部：ck_footer
+	左右中：ck_left / ck_right / ck_center
+	导航：ck_nav
+	侧栏：ck_side
+	栏目：ck_column
+	整体布局：ck_wrap
+	登录条：ck_login
+	标志：ck_logo
+	广告：ck_banner
+	页面主体：ck_main
+	热点：ck_hot
+	新闻：ck_news
+	下载：ck_download
+	子导航：ck_subnav
+	菜单：ck_menu
+	子菜单：ck_submenu
+	搜索：ck_search
+	友情链接：ck_friendlink
+	页脚：ck_footer
+	版权：ck_copyright
+	滚动：ck_scroll
+	标签页：ck_tab
+	文章列表：ck_list
+	提示信息：ck_msg
+	小技巧：ck_tips
+	栏目标题：ck_title
+	加入：ck_join
+	指南：ck_guild
+	服务：ck_service
+	注册：ck_regsiter
+	状态：ck_status
+	投票：ck_vote
+	合作伙伴：ck_partner
+
+二、
+	id命名用驼峰
+	class命名用'-'
